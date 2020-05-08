@@ -1,0 +1,3 @@
+[submodule "mynews/Programming"]
+	path = mynews/Programming
+	url = https://github.com/MikihiroHagiwara/Programming.git
